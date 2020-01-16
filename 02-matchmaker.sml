@@ -144,7 +144,7 @@ what_bottom(Bottom(Sword));    (* *)
 * The second moral:                                                                                                                    *
 *                                                                                                                                                       *
 * The number and order of the patterns in the defination of a function should           *
-* match that of the defination of the consumed datatype.                                                *
+* match that of the definition of the consumed datatype.                                                *
 *                                                                                                                                                      *
 *********************************************************************)
 
