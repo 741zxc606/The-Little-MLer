@@ -1,7 +1,3 @@
-(* Chapter 3 of The Little MLer:
-** Cons Is Still Magnificent 
-*)
-
 (* 
 ** Chapter 3 of The Little MLer:
 ** Cons Is Still Magnificent
