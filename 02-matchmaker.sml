@@ -139,15 +139,14 @@ what_bottom(Onion(Tomato(Bottom(Gold_plate))));    (* Gold_plate *)
 what_bottom(Onion(Tomato(Bottom(52))));    (* *)
 what_bottom(Bottom(Sword));    (* *)
 
-(**********************************************************************
-*                                                                                                                                                       *
-* The second moral:                                                                                                                    *
-*                                                                                                                                                       *
-* The number and order of the patterns in the defination of a function should           *
-* match that of the definition of the consumed datatype.                                                *
-*                                                                                                                                                      *
-*********************************************************************)
-
+(***********************************************************************************
+*                                                                                  *
+* The second moral:                                                                *
+*                                                                                  *
+* The number and order of the patterns in the defination of a function should      *
+* match that of the definition of the consumed datatype.                           *
+*                                                                                  *
+***********************************************************************************)
 
 
 
